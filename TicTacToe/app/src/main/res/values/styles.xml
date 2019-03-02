@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="styleablePlayer1">
+        <item name="colorBackground">#9b59b6</item>
+        <item name="textColor">#000</item>
+        <item name="iconLeft">@drawable/ic_android</item>
+    </style>
+    <style name="styleablePlayer2">
+        <item name="colorBackground">#f1c40f</item>
+        <item name="textColor">#000</item>
+        <item name="iconLeft">@drawable/ic_android</item>
+    </style>
+</resources>
